@@ -204,3 +204,5 @@ See also the list of [contributors](https://github.com/hackoregon/housing-17/con
 * [Crop Compass](http://www.cropcompass.org/)
 * [PlotPDX](http://plotpdx.org)
 * [Programming to Progress](http://www.programmingtoprogress.org/)
+
+Thanks for your interest!
